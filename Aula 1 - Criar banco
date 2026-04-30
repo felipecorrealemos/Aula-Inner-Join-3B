@@ -1,0 +1,2 @@
+create database aula_joins_db;
+use aula_joins_db;
