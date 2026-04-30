@@ -1,0 +1,10 @@
+insert into enderecos (cliente_id, rua, numero, bairro, cidade, estado) values
+(1, 'rua das flores', '100', 'centro', 'são paulo', 'sp'),
+(2, 'avenida brasil', '250', 'jardim américa', 'rio de janeiro', 'rj'),
+(3, 'rua xv de novembro', '80', 'centro', 'curitiba', 'pr'),
+(5, 'rua dos ipês', '45', 'vila nova', 'belo horizonte', 'mg'),
+(6, 'avenida paulista', '1000', 'bela vista', 'são paulo', 'sp'),
+(8, 'rua das palmeiras', '77', 'jardim europa', 'campinas', 'sp'),
+(9, 'rua sete de setembro', '321', 'centro', 'porto alegre', 'rs'),
+(11, 'avenida das nações', '500', 'centro', 'brasília', 'df'),
+(12, 'rua do comércio', '90', 'centro', 'salvador', 'ba');
