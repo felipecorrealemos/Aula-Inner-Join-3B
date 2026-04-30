@@ -1,0 +1,13 @@
+insert into clientes (nome, email, telefone) values
+('alice martins', 'alice@email.com', '1199999-1111'),
+('bruno souza', 'bruno@email.com', '1199999-2222'),
+('carla oliveira', 'carla@email.com', '1199999-3333'),
+('daniel santos', 'daniel@email.com', '1199999-4444'),
+('eduarda lima', 'eduarda@email.com', '1199999-5555'),
+('felipe rocha', 'felipe@email.com', '1199999-6666'),
+('gabriela almeida', 'gabriela@email.com', '1199999-7777'),
+('henrique costa', 'henrique@email.com', '1199999-8888'),
+('isabela fernandes', 'isabela@email.com', '1199999-9999'),
+('joao pedro', 'joao@email.com', '1198888-1111'),
+('karina ramos', 'karina@email.com', '1198888-2222'),
+('lucas barbosa', 'lucas@email.com', '1198888-3333');
