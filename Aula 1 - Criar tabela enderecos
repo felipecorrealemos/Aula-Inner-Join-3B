@@ -1,0 +1,10 @@
+create table enderecos (
+    endereco_id int primary key auto_increment,
+    cliente_id int,
+    rua varchar(100),
+    numero varchar(10),
+    bairro varchar(100),
+    cidade varchar(100),
+    estado char(2),
+    foreign key (cliente_id) references clientes(cliente_id)
+);
